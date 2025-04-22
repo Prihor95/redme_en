@@ -42,10 +42,12 @@ Here's the professional English translation of your Data Analyst profile:
 ![Data Transformation](https://img.shields.io/badge/Data_Transformation-blue?style=for-the-badge&logoSize=auto)  
 
 **Key Visualizations:**  
-1. **Monthly OEE Tracking** - Real-time equipment effectiveness monitoring  
-2. **Loss Time Analysis** - Identified critical production bottlenecks  
-3. **Printing Defects Dashboard** - Reduced material waste by 25%  
-
+1. **Monthly OEE Tracking** - Real-time equipment effectiveness monitoring
+<img src="assets /img/OEE_por_mes.png" alt="OEE por mes" style="width:100%">
+2. **Loss Time Analysis** - Identified critical production bottlenecks
+<img src="assets /img/Bloques_de_perdidas.png" alt="Bloque de perdidas" style="width:100%">
+3. **Printing Defects Dashboard** - Reduced material waste by 25%
+<img src="assets /img/merma_impresion.png" alt="Merma de proceso de impresión" style="width:100%">
 ---
 
 ### Gym Membership Retention Analysis  
