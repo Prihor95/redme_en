@@ -24,7 +24,7 @@ Industrial Engineer, data enthusiast and in career transition to data analytics 
 - 🔭 I am currently working in a metalworking company ⚙️, as a production engineer, but I am looking for new challenges and to expand my horizons ✈️.
 - 🌱 I have just finished a Tripleten bootcamp as a Data Analyst 📈, putting languages ​​like SQL and Python into practice and I am excited to put my skills to the test.
 - ⚡ Fun fact: I look for any excuse to have a coffee ☕
-- 📫 Do you want to contact me?[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/luis-enrique-diaz-rojas-905604163/)
+- 📫 Do you want to contact me?[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/luis-enrique-diaz-rojas-905604163/?locale=en_US)
 - :e-mail: luis_e_diaz@live.com
 - :iphone: (+52) 55 1842 8908
 
