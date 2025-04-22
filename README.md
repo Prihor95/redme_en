@@ -1,45 +1,110 @@
+Here's the professional English translation of your Data Analyst profile:
 
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/Prihor95/Prihor95/blob/20b61831a21d4bb62baddf78cbfd8fdb88d69615/Data_analyst_Luis.png" width="800"/>
+# Data Analyst
 
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-enrique-diaz-rojas-905604163/)
+## About Me  
+👨‍💻 Industrial Engineer with expertise in continuous improvement, statistical analysis, and Python programming. Certified in Six Sigma methodologies with hands-on experience implementing KPIs and dashboards for data-driven decision making using Power BI and Excel. My process-oriented approach combined with leadership, teamwork, and communication skills has been key to project success.
 
-![](https://komarev.com/ghpvc/?username=Prihor95&color=blueviolet&style=for-the-badge)
-</div>
-<div id="badges" align="center">
+🎯 Recently certified as a Data Analyst through TripleTen's bootcamp, where I advanced my technical skills in:
+- Python & SQL programming  
+- GitHub version control  
+- Data wrangling techniques  
+- Effective data storytelling  
 
+⚙️ Technical Toolkit:  
+🥋 Yellow Belt Certified (Six Sigma & Lean Manufacturing)  
+📊 Advanced Excel, Power BI, Bizagi Modeler  
+🗣️ Native Spanish | Advanced English (B2) | Currently learning Japanese  
 
-<h1>
-  Hi I'm Luis. ¡Nice to meet you!
-  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+🌎 Location Flexibility:  
+✈️ Available for remote work or relocation to Santiago, Chile  
 
+## Selected Projects  
+
+### OEE & Production Loss Dashboard  
+**Challenge:** Time-consuming manual reporting at a mass-production cup manufacturing plant caused delayed weekly meetings with dispersed data across multiple files.  
+
+**Solution:**  
+- Standardized data collection into a single Excel source  
+- Developed interactive Power BI dashboard  
+- Trained operators on proper data entry protocols  
+
+**Impact:**  
+- Reduced reporting time from 2 days to 1 shift  
+- Enabled real-time performance comparisons  
+- Served as primary analysis tool for DMAIC improvement teams  
+- 25% reduction in printing waste through defect visualization  
+
+**Tools:**  
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logoSize=auto&color=darkgreen) 
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logoSize=auto&labelColor=black&color=yellow)  
+![Power Query](https://img.shields.io/badge/Power_Query-yellow?style=for-the-badge&logoSize=auto&color=yellow)  
+![Data Transformation](https://img.shields.io/badge/Data_Transformation-blue?style=for-the-badge&logoSize=auto)  
+
+**Key Visualizations:**  
+1. **Monthly OEE Tracking** - Real-time equipment effectiveness monitoring  
+2. **Loss Time Analysis** - Identified critical production bottlenecks  
+3. **Printing Defects Dashboard** - Reduced material waste by 25%  
 
 ---
- <div id="header" align="left">
 
-### 👨‍💻: About me :
-Industrial Engineer, data enthusiast and in career transition to data analytics  <img decoding="async" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE2bzY2Z3d1OHR1ZXFlaTMzN2h0d2E1YjMzaGYyaGsxZjVqZzd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif" width="30">
+### Gym Membership Retention Analysis  
+**Objective:** Predict next-month member churn using machine learning (binary classification) and identify high-risk customer segments.  
 
-- 🔭 I am currently working in a metalworking company ⚙️, as a production engineer, but I am looking for new challenges and to expand my horizons ✈️.
-- 🌱 I have just finished a Tripleten bootcamp as a Data Analyst 📈, putting languages ​​like SQL and Python into practice and I am excited to put my skills to the test.
-- ⚡ Fun fact: I look for any excuse to have a coffee ☕
-- 📫 Do you want to contact me?[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/luis-enrique-diaz-rojas-905604163/?locale=en_US)
-- :e-mail: luis_e_diaz@live.com
-- :iphone: (+52) 55 1842 8908
+**Methodology:**  
+1. **EDA:** Identified cancellation patterns through heatmap analysis  
+2. **Modeling:** Compared Logistic Regression (85% accuracy) vs. Random Forest (84% accuracy)  
+3. **Clustering:** Segmented users by behavior patterns using K-means  
 
+**Key Insights:**  
+- Cluster #2 (20.5% of users) showed highest churn risk:  
+  - Ages 25-30  
+  - 67.6% without workout partners  
+  - Located near facilities  
+- Strong correlation between class attendance frequency and retention  
 
+**Recommendations:**  
+- Targeted SMS campaigns (90% phone number coverage)  
+- A/B test promotional offers for high-risk segments  
+- Encourage group activities for younger members  
 
-### :hammer_and_wrench: Languages y tools:
+**Tools:**  
+![scikit-learn](https://img.shields.io/badge/scikit_learn-blue?style=for-the-badge)  
+![pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas)  
+![matplotlib](https://img.shields.io/badge/matplotlib-blue?style=for-the-badge)  
 
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
+[View Project](https://github.com/Prihor95/gym_machine_learning)  
 
-</div>
+---
+
+### Telecom Operator Performance System  
+**Solution:** Developed operator scoring algorithm evaluating:  
+1. Missed call rates  
+2. Wait times  
+3. Outbound call volume  
+
+**Analysis Highlights:**  
+- Confirmed relationship between service plans and missed calls (p < 0.05)  
+- Efficient operators made 42% more outbound calls (t-test verified)  
+- Identified 56 underperforming operators for targeted training  
+
+**Deliverables:**  
+- Interactive Tableau dashboard for supervisor oversight  
+- Automated performance scoring system  
+
+**Tools:**  
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge)  
+![Statistical Testing](https://img.shields.io/badge/Hypothesis_Testing-blue?style=for-the-badge)  
+
+[View Dashboard](https://public.tableau.com/app/profile/luis.enrique.diaz.rojas/viz/Dashboard_telecom_17308317422890/Dashboard1)  
+
+---
+
+This translation maintains all technical details while adapting to US professional standards. I've:
+1. Used active voice and concise phrasing
+2. Standardized tool/technology names
+3. Highlighted measurable impacts
+4. Organized information for quick scanning
+5. Preserved all links and badges
+
+Would you like me to adjust any section's tone or add industry-specific terminology?
