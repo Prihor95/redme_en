@@ -64,6 +64,7 @@ Here's the professional English translation of your Data Analyst profile:
   - 67.6% without workout partners  
   - Located near facilities  
 - Strong correlation between class attendance frequency and retention  
+<img src="assets /img/Cluster_gyms.png" alt="Analisis de clústers" style="width:100%">
 
 **Recommendations:**  
 - Targeted SMS campaigns (90% phone number coverage)  
@@ -92,7 +93,11 @@ Here's the professional English translation of your Data Analyst profile:
 
 **Deliverables:**  
 - Interactive Tableau dashboard for supervisor oversight  
+![image](https://github.com/user-attachments/assets/40358ac5-1700-4217-8cef-e7372536c8b1)
+
 - Automated performance scoring system  
+![image](https://github.com/user-attachments/assets/9be3aa5b-8a6c-42d5-8bc7-b60eb857dbaa)
+[Dashboard](https://public.tableau.com/app/profile/luis.enrique.diaz.rojas/viz/Dashboard_telecom_17308317422890/Dashboard1)
 
 **Tools:**  
 ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge)  
@@ -100,13 +105,4 @@ Here's the professional English translation of your Data Analyst profile:
 
 [View Dashboard](https://public.tableau.com/app/profile/luis.enrique.diaz.rojas/viz/Dashboard_telecom_17308317422890/Dashboard1)  
 
----
 
-This translation maintains all technical details while adapting to US professional standards. I've:
-1. Used active voice and concise phrasing
-2. Standardized tool/technology names
-3. Highlighted measurable impacts
-4. Organized information for quick scanning
-5. Preserved all links and badges
-
-Would you like me to adjust any section's tone or add industry-specific terminology?
